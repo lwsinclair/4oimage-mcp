@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/antipas-4oimage-mcp-badge.png)](https://mseep.ai/app/antipas-4oimage-mcp)
+
 # 4o-image MCP Server
 
 An MCP server implementation that integrates with 4o-image API, enabling LLMs and other AI systems to generate and edit images through a standardized protocol. Create high-quality art, 3D characters, and custom images using simple text prompts.
